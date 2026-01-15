@@ -5,3 +5,6 @@ graphene-django
 gql
 requests
 requests-toolbelt
+celery
+django-celery-beat
+redis
